@@ -7,9 +7,10 @@ Week 1: 26-7-2022
 | 3 | ORB SLAM 3 implementation overall underatanding | Understand the code, modules, etc. | In Progress | -No documentation explaining internals <br/>-tried to reverse engineer the executable, proved too difficult.dropped <br/>-tried to generate doxygen control flow graphs, but insufficient <br/>-must try updating comments and then generating graphs |
 | 4 | AKAZE vs ORB | Make a strong case for motivation as to why AKAZE was chosen |Pending | |
 
+Week 2: 2-8-2022
 
-| Method | Value |
-| :---: | :---: |
-| cv2.TM_CCOEFF_NORMED | 0.282997101545 |
-| cv2.TM_CCORR_NORMED | 0.79689925909 |
-| cv2.TM_SQDIFF_NORMED | 0.447067975998 |
+| No	| Item	| Description/Comments	| Status	| MiscInfo |
+| :--- | :----- | :--------------------- | :------- | :--------- |
+| 1	| AKAZE vs ORB | Make a strong case for motivation as to why AKAZE was chosen | | |
+| 2 | ORB SLAM 3 implementation overall underatanding | Understand the code, modules, etc. | In Progress | |
+
