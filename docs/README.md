@@ -1,4 +1,5 @@
 Week 1: 26-7-2022
+
 | No	| Item	| Description/Comments	| Status	| MiscInfo |
 | :--- | :----- | :--------------------- | :------- | :--------- |
 | 1	| Get ORB SLAM 3 to work	| Get ORB SLAM 3 source. Compile and install. Run few examples.	| Done	| Have done this on a laptop and also a VM. Made a reference doc with installation steps for future references. |
