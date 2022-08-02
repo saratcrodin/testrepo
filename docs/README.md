@@ -11,6 +11,6 @@ Week 2: 2-8-2022
 
 | No	| Item	| Description/Comments	| Status	| MiscInfo |
 | :--- | :----- | :--------------------- | :------- | :--------- |
-| 1	| AKAZE vs ORB | Make a strong case for motivation as to why AKAZE was chosen | | |
+| 1	| AKAZE vs ORB | Make a strong case for motivation as to why AKAZE was chosen | Done | |
 | 2 | ORB SLAM 3 implementation overall underatanding | Understand the code, modules, etc. | In Progress | |
 
