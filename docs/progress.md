@@ -1,14 +1,16 @@
 Week 1: 26-7-2022
 ---
-|No			|Item			|Description/Comments			|Status			|Misc Info|
-| :--- |			:--- |			:--- |			:--- |			:--- |
+														
+|No			|Item			|Description/Comments			|Status			|Misc Info|		
+| :--- |			:--- |			:--- |			:--- |			:--- |		
 |<font size=2>	1	</font>|	<font size=2>	Get ORB SLAM 3 to work	</font>|	<font size=2>	Get ORB SLAM 3 source. Compile and install. Run few examples.	</font>|	<font size=2>	Done	</font>|	<font size=2>	Have done this on a laptop and also a VM. Made a reference doc with installation steps for future references.	</font>|
 |<font size=2>	2	</font>|	<font size=2>	Baseline Step1: ORB SLAM3 with Laptop webcam	</font>|	<font size=2>	ORB SLAM 3 must run with the Webcam in the laptop	</font>|	<font size=2>	In Progress	</font>|	<font size=2>	 -tried to run on Ubuntu 22. Had compatibility issues with python versions. Impact on ORB SLAM3 dependencies due to multiple co-existing python versions<br/>-Tried running on a VM(Ubuntu 20). Basic run successful. But crahes and tracking freezes inconsistently.<br/>-tried to run on Ubuntu 20. Having issues with ROS node compilation. <br/>-Melodic not supported on 20. Neotic is supported. But ORB SLAM3<br/>-depends on pythininterp 2.7 but neotic needs > 3<br/>Next step is to downgrade to Ubuntu 18	</font>|
 |<font size=2>	3	</font>|	<font size=2>	ORB SLAM 3 implementation overall underatanding	</font>|	<font size=2>	Understand the code, modules, etc.	</font>|	<font size=2>	In Progress	</font>|	<font size=2>	 -No documentation explaining internals<br/>-tried to reverse engineer the executable, proved too difficult.dropped<br/>-tried to generate doxygen control flow graphs, but insufficient<br/>-must try updating comments and then generating graphs	</font>|
 |<font size=2>	4	</font>|	<font size=2>	AKAZE vs ORB	</font>|	<font size=2>	Make a strong case for motivation as to why AKAZE was chosen	</font>|	<font size=2>	Pending	</font>|	<font size=2>		</font>|
 
-Week 2: 2-8-2022
----
+Week 2: 2-8-2022							
+---							
+
 |No			|Item			|Description/Comments			|Status			|Misc Info|		
 | :--- |			:--- |			:--- |			:--- |			:--- |		
 |<font size=2>	1	</font>|	<font size=2>	Baseline Step1: ORB SLAM3 with Laptop webcam	</font>|	<font size=2>	ORB SLAM 3 must run with the Webcam in the laptop	</font>|	<font size=2>	Done	</font>|	<font size=2>	[orbslam3_webcam_run1.mkv](https://cmailcarletonca-my.sharepoint.com/:v:/r/personal/mohamedatia_cunet_carleton_ca/Documents/Sarat MAS Progress/orbslam3_webcam_run1.mkv?csf=1&web=1&e=S8wRyZ)	</font>|
@@ -26,6 +28,7 @@ Week 5: 23-8-2022
 
 Week 6: 30-8-2022														
 ---
+
 |No			|Item			|Description/Comments			|Status			|Misc Info|		
 | :--- |			:--- |			:--- |			:--- |			:--- |		
 |<font size=2>	1	</font>|	<font size=2>	ORB SLAM 3 implementation overall underatanding	</font>|	<font size=2>	Understand the code, modules, etc.	</font>|	<font size=2>	In Progress	</font>|	<font size=2>	Going on in parallel as the examples are studied	</font>|
@@ -38,6 +41,7 @@ Week 6: 30-8-2022
 
 Week 7: 30-8-2022														
 ---
+
 |No			|Item			|Description/Comments			|Status			|Misc Info|		
 | :--- |			:--- |			:--- |			:--- |			:--- |		
 |<font size=2>	1	</font>|	<font size=2>	Understanding Calibration	</font>|	<font size=2>	Understand Calibration process for ORB SLAM3<br/>Calibrate webcam, zed, realsense	</font>|	<font size=2>		</font>|	<font size=2>		</font>|
