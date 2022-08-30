@@ -1,5 +1,7 @@
 | Description			| Link |		
 | :--- |			:--- |		
+|<font size=2>	rolling shutter issue mentioned in ORB SLAM 3 Git page	</font>|	<font size=2>	https://github.com/UZ-SLAMLab/ORB_SLAM3/issues/94	</font>|
+|<font size=2>	ORB SLAM 3 working with Go Pro	</font>|	<font size=2>	https://github.com/urbste/ORB_SLAM3/tree/master/src	</font>|
 |<font size=2>	ORB SLAM 3, ROS noetic, Ubuntu 20.04 test.	</font>|	<font size=2>	https://www.youtube.com/watch?v=vf2UPc5nkRM&ab_channel=Ra%C3%BAlMurArtal 	</font>|
 |<font size=2>	ORB SLAM3 Ubuntu 20 reference	</font>|	<font size=2>	https://github.com/egdw/ORB_SLAM3_Ubuntu20.04 	</font>|
 |<font size=2>	ORB SLAM3 installation reference	</font>|	<font size=2>	https://github.com/Mauhing/ORB_SLAM3/blob/master/README.md 	</font>|
@@ -33,3 +35,12 @@
 |<font size=2>	only reference that I found for GFTT	</font>|	<font size=2>	https://cvexplained.wordpress.com/2020/07/23/10-10-3-gftt/	</font>|
 |<font size=2>	ORB vs AKAZE	</font>|	<font size=2>	https://securityboulevard.com/2021/03/fast-image-matching-at-scale/	</font>|
 |<font size=2>	reference for blogging in git	</font>|	<font size=2>	https://github.com/vzat/comparing_images	</font>|
+|<font size=2>	nvidia vpi documentation	</font>|	<font size=2>	https://docs.nvidia.com/vpi/algo_gaussian_pyramid_generator.html	</font>|
+|<font size=2>	shutter speed chart	</font>|	<font size=2>	https://shotkit.com/what-is-shutter-speed/ 	</font>|
+|<font size=2>	How to run ORB SLAM with KITTI Dataset	</font>|	<font size=2>	http://20sep1995.blogspot.com/2019/02/how-to-run-orb-slam-with-kitti-dataset.html	</font>|
+|<font size=2>	mono euroc fix	</font>|	<font size=2>	https://github.com/shanpenghui/ORB_SLAM3_Fixed	</font>|
+|<font size=2>	kitti dataset download	</font>|	<font size=2>	http://www.cvlibs.net/datasets/kitti/eval_odometry.php	</font>|
+|<font size=2>	Rolling shutter effect in real time	</font>|	<font size=2>	https://www.youtube.com/watch?v=drGnLKxQQFI&ab_channel=AndrewComport	</font>|
+|<font size=2>	solution for rolling shutter	</font>|	<font size=2>	https://www.roadbotics.com/2021/01/25/roadbotics-research-and-development-making-slam-work-part-2/	</font>|
+|<font size=2>	impact of resolution	</font>|	<font size=2>	https://www.kudan.io/blog/camera-basics-visual-slam/ 	</font>|
+|<font size=2>	impact of resolution	</font>|	<font size=2>	https://github.com/raulmur/ORB_SLAM2/issues/35 	</font>|
