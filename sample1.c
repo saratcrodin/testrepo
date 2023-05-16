@@ -19,3 +19,8 @@ void branch_3_func1()
 {
 
 }
+
+void dummmy func3()
+{
+ /*Changes for branchtest1*/
+}
