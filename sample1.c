@@ -4,3 +4,8 @@ int main()
 {
     printf("\nHelloWorld");
 }
+
+void dummmy func1()
+{
+    
+}
