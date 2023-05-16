@@ -14,3 +14,8 @@ void dummmy func2()
 {
 
 }
+
+void branch_3_func1()
+{
+
+}
