@@ -7,5 +7,10 @@ int main()
 
 void dummmy func1()
 {
-    
+
+}
+
+void dummmy func2()
+{
+
 }
