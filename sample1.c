@@ -24,3 +24,8 @@ void dummmy func3()
 {
  /*Changes for branchtest1*/
 }
+
+void merge_test1_func()
+{
+
+}
