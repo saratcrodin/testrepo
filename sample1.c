@@ -27,5 +27,5 @@ void dummmy func3()
 
 void merge_test1_func()
 {
-
+/*Merge test1*/
 }
